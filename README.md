@@ -217,5 +217,3 @@ You now have a complete AI-powered QA system with:
 	•	UI for generation, viewing, and CSV export
 
 ⸻
-
-Would you like me to create and publish this as a full GitHub starter repo with all working files?
