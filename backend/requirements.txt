@@ -1,0 +1,13 @@
+fastapi==0.104.0
+uvicorn==0.23.2
+python-dotenv==1.0.0
+requests==2.31.0
+qdrant-client==1.6.0
+langchain==0.0.325
+# Pin huggingface_hub to a version that works with sentence-transformers
+huggingface_hub==0.12.1
+sentence-transformers==2.2.2
+pandas==2.1.1
+pydantic==2.4.2
+httpx==0.25.0
+python-multipart==0.0.6
