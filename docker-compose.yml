@@ -39,14 +39,8 @@ services:
     volumes:
       - qdrant_data:/qdrant/storage
 
-  qdrant-ui:
-    image: apecloud/qdrant-web-ui
-    ports:
-      - "3001:80"
-    depends_on:
-      - qdrant
-    environment:
-      - QDRANT_URL=http://qdrant:6333
+  # The Qdrant server already includes a dashboard at /dashboard path
+  # You can access it directly at http://localhost:6333/dashboard
 
 volumes:
   qdrant_data:
