@@ -1,4 +1,4 @@
-Absolutely! Below is a complete and clear prompt you can use for GitHub README, AI Copilot, or your own team to implement this project from scratch using Docker Compose, FastAPI, React, Qdrant, and Ollama (local LLM).
+implement this project from scratch using Docker Compose, FastAPI, React, Qdrant, and Ollama (local LLM).
 
 ⸻
 
